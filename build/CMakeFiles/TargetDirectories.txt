@@ -1,0 +1,3 @@
+/home/chris/code/platformer-c/build/CMakeFiles/MyGame.dir
+/home/chris/code/platformer-c/build/CMakeFiles/edit_cache.dir
+/home/chris/code/platformer-c/build/CMakeFiles/rebuild_cache.dir
